@@ -3,6 +3,6 @@
 ##Anmariya Francis
 
 ---
-Day 4 
+Day 4 Student class example
 
-Day 5
+Day 5 
